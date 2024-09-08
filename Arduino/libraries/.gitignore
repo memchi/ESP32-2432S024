@@ -1,0 +1,5 @@
+# Exclude Libraries which are handled by the IDE Library manager
+/Firmata
+/LinkedList
+/lvgl
+/GFX_Library_for_Arduino

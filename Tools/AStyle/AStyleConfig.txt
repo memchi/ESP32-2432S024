@@ -1,0 +1,32 @@
+# http://astyle.sourceforge.net/astyle.html
+
+# Brace Style Options
+--style=java
+
+# Tab Options
+--indent=spaces=2
+
+# Brace Modify Options
+
+# Indentation Options
+--indent-namespaces
+--indent-preproc-block
+--indent-preproc-define
+--indent-col1-comments
+
+# Padding Options
+--pad-oper
+--pad-header
+--delete-empty-lines
+--align-pointer=middle
+--align-reference=middle
+
+# Formatting Options
+--add-braces
+--remove-comment-prefix
+
+# Other Options
+--suffix=none
+--ignore-exclude-errors
+--verbose
+--lineend=windows
