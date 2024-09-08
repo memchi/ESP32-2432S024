@@ -1,4 +1,0 @@
-#######################################
-# keywords.txt file for EvokeDisplayProtocol
-# see: http://playground.arduino.cc/Code/Library#Keywords
-#######################################
