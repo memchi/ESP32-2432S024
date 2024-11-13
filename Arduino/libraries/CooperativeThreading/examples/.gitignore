@@ -1,7 +1,0 @@
-# do not let examples for libraries here to check in
-# develop them in ..\..\..\libraries_examples\
-**/*.ino
-**/*.h
-**/*.c
-**/*.cpp
-/*.WinMerge
